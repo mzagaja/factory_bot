@@ -1,6 +1,7 @@
 Getting Started
 ===============
 
+
 * [Setup](#setup)
   + [Update Your Gemfile](#update-your-gemfile)
   + [Configure your test suite](#configure-your-test-suite)
